@@ -23,7 +23,7 @@ El sistema está diseñado para administrar dos tipos de armas: armas cortas y a
 
 ### Requisitos
 
-- Java Development Kit (JDK) 21.
+- Java Development Kit (JDK) 23.
 - Un entorno de desarrollo integrado (IDE) como IntelliJ IDEA.
 
 ### Pasos para Ejecutar
